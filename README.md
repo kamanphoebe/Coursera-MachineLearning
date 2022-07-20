@@ -5,4 +5,5 @@ This repository contains my solutions for the assignments of the "[Machine Learn
 Also try out the Github pages view [here](http://kamanphoebe.github.io/Coursera-MachineLearning)! 
 
 ## Contents
-[(Week2) Programming Assignment: Linear Regression](./Week2.md)
+[(Week2) Ex1: Linear Regression](./Ex1.md) \
+[(Week3) Ex2: Logistic Regression](./Ex2.md)
