@@ -20,7 +20,7 @@ for i = 1:m
 end
 J = 1 / m * sum(sum(-label .* log(h) - (1 - label) .* log(1 - h))) ...
     + lambda / 2 / m * (sum(sum(Theta1(:, 2:end) .^ 2)) ...
-		+ sum(sum(Theta2(:, 2:end) .^ 2)));
+    + sum(sum(Theta2(:, 2:end) .^ 2)));
 
 
 % Part 2
