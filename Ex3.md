@@ -1,4 +1,4 @@
-# (Week 4) Ex3: Multi-class Classication and Neural Networks
+# (Week 4) Ex3: Multi-class Classification and Neural Networks
 
 `lrCostFunction.m`
 
